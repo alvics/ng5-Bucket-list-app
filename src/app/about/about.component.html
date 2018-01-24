@@ -1,0 +1,23 @@
+
+<div style="text-align:center">
+  <div class="container">
+    <div class="container color-light">
+  <h1>About Angular.</h1> <br>
+  <br>
+</div>
+  <p class="pgh">Learning new technologies can be challanging and fun and the same time. The long hours and hard work YOU put in will return dividends. Angular is the new way forward for web development in 2018. Start building lightning fast PWA's and stay ahead of the game.</p>
+  <div class="container color-dark">
+  <h3> Learn Angular, its Awesome!</h3>
+  <p>
+                      <!-- send back home link -->
+
+  Create your goals... <a href="home" (click)="sendMeHome()"><strong>Take me back</strong></a>
+  </p>
+     <ul>
+        <li *ngFor="let goal of goals">
+          {{ goal }}
+        </li>
+     </ul>
+  </div>
+ </div>
+</div>
