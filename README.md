@@ -1,4 +1,11 @@
-# Ng5DesignCourse
+# Angular 5 Web app
+
+
+## Bucket List App
+
+View the [Demo here](https://alvics.github.io/ng5-Bucket-list-app/)
+*my first Angular project*
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
