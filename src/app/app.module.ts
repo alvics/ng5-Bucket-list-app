@@ -23,6 +23,6 @@ import { AboutComponent } from './about/about.component';
     BrowserAnimationsModule
   ],
   providers: [DataService],
-  bootstrap: [AppComponent]
+  bootstrap: [HomeComponent]
 })
 export class AppModule { }
